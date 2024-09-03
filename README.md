@@ -1,0 +1,2 @@
+# Pagstaticas
+paginas creadas 
